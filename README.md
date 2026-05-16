@@ -7,11 +7,11 @@
 <h1 align="center"> Hi, I'm Thiên Khôi 👋</h1>
 
 <p align="center">
-  <a href="YOUR_FACEBOOK_LINK">
+  <a href="https://www.facebook.com/thienkhoi1102">
     <img src="fb.svg" alt="My facebook" width="40px">
   </a>
   <!-- Add more social links if needed -->
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/khoi-diggory-doan/">
     <img src="linkedin.svg" alt="LinkedIn" width="40px">
   </a>
 </p>
@@ -24,7 +24,7 @@ I'm a passionate Software Developer and Data Engineering enthusiast focused on b
 - 🌱 **Learning:** French language and advanced PC hardware/networking optimization (like WiFi Mesh systems).
 - 👯 **Open to collaborate on:** Software development, data engineering projects, or backend architectures.
 - 💬 **Ask me about:** Java, Python, SQL, MongoDB, or how to troubleshoot PC components!
-- 📫 **Reach me at:** [Your Email Here]
+- 📫 **Reach me at:** thienkhoi2004@gmail.com
 - 📍 **Location:** Vietnam
 
 ## 🛠️ Technologies & Tools
@@ -45,8 +45,8 @@ I'm a passionate Software Developer and Data Engineering enthusiast focused on b
 When I'm not coding or studying, you can find me fine-tuning my game ping or playing:
 
 <p align="left">
-  <a href="YOUR_STEAM_LINK"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
-  <a href="YOUR_RIOT_LINK"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot Games"></a>
+  <a href="https://steamcommunity.com/id/diggory11/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+  <a href="https://tactics.tools/player/vn/Độraemon/16184"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot Games"></a>
 </p>
 
 *Favorite Games:*
@@ -57,11 +57,11 @@ When I'm not coding or studying, you can find me fine-tuning my game ping or pla
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diggory1102&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=diggory1102&color=blueviolet&style=flat-square" alt="Profile views">
 </p>
 
 <p align="center">
