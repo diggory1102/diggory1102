@@ -1,7 +1,7 @@
 <!--*thienkhoi/thienkhoi* is a special repository because its README.md (this file) appears on your GitHub profile. -->
 
 <p align="center">
-  <img src="profile.gif" width="100%">
+  <img src="c53066450174f6edeb4512864a406aec.gif" width="100%">
 </p>
 
 <h1 align="center"> Hi, I'm Thiên Khôi 👋</h1>
